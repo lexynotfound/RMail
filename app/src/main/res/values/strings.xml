@@ -29,7 +29,7 @@ Respectfully,
     <string name="mobile">Mobile</string>
     <string name="_91_9000000009">+62 81230500458</string>
     <string name="email">Email</string>
-    <string name="rai_gmail_com">rxxxxxxx@gmail.com</string>
+    <string name="rai_gmail_com">raihanardila22@gmail.com</string>
     <string name="social_media">Social Media</string>
 
     <string-array name="data_name">
@@ -218,19 +218,19 @@ Respectfully,
 
     <integer-array name="data_photo">
         <item>@drawable/raihan</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/ss</item>
+        <item>@drawable/download</item>
         <item>@drawable/hoka</item>
         <item>@drawable/ramadhan</item>
         <item>@drawable/afiq</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
-        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/batista</item>
+        <item>@drawable/bintangs</item>
+        <item>@drawable/levine</item>
+        <item>@drawable/vio</item>
+        <item>@drawable/galih</item>
+        <item>@drawable/getty</item>
+        <item>@drawable/gaos</item>
+        <item>@drawable/elvis</item>
     </integer-array>
     <string name="title_activity_detail">DetailActivity</string>
     <!-- Strings used for fragments for navigation -->
