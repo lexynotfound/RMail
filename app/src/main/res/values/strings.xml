@@ -1,0 +1,278 @@
+<resources>
+    <string name="app_name">RMail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Rmail</string>
+    <string name="mail">Nama Pengirim</string>
+    <string name="description">Deskripsi</string>
+    <string name="subject">Subject</string>
+    <string name="Back">Back</string>
+    <string name="profile">Profile</string>
+    <string name="rai">Kurnia Raihan Ardian</string>
+    <string name="about"></string>
+    <string name="bio">Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]</string>
+    <string name="user_information">User Information</string>
+    <string name="username_">Username</string>
+    <string name="lexy">Lexynotfound</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="_21">22</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="_30_12_2001">30/01/2001</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_9000000009">+62 81230500458</string>
+    <string name="email">Email</string>
+    <string name="rai_gmail_com">rxxxxxxx@gmail.com</string>
+    <string name="social_media">Social Media</string>
+
+    <string-array name="data_name">
+        <item>Kurnia Raihan Ardian</item>
+        <item>Jati Priyatmoko</item>
+        <item>Eka Galang Pratama</item>
+        <item>Hoka</item>
+        <item>Ramadhan</item>
+        <item>afiq</item>
+        <item>syahrul</item>
+        <item>Bintang</item>
+        <item>Alif</item>
+        <item>vio</item>
+        <item>galih</item>
+        <item>alfa</item>
+        <item>ahmad gaos sulalah</item>
+        <item>akbar</item>
+    </string-array>
+
+    <string-array name="data_subject">
+        <item>Jadwal Main</item>
+        <item>Jadwal Main</item>
+        <item>Jadwal Main</item>
+        <item>Tugas</item>
+        <item>Asking Bangkit</item>
+        <item>Ngeluh</item>
+        <item>Impress Bangkit Project</item>
+        <item>khwatir banget sama kamu</item>
+        <item>Asking Asigment</item>
+        <item>Di cariin</item>
+        <item>Asking Bangkit</item>
+        <item>mutual friendship</item>
+        <item>mutual</item>
+        <item>ayok</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Oi Jangan lupa besok main yak:). Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian]Esteemed Colleagues,
+I am privileged to present myself as a Software Engineer of distinguished caliber. Proficient in a diverse array of programming languages including Dart, Flutter, Java, and PHP, I possess a proven track record in architecting sophisticated solutions that seamlessly harmonize functionality with aesthetics.
+My unyielding commitment to technical excellence is underscored by an unwavering pursuit of the vanguard of technology, ensuring that I remain at the vantage point of innovation in software development. Beyond the realm of code, I actively participate in the broader tech community, fostering an environment of visionary collaboration and forward-thinking discourse.
+It is with great honor that I find myself in the esteemed company of such accomplished peers. I anticipate, with fervent enthusiasm, the forthcoming opportunities to contribute to our collective pursuit of technological advancement.
+For a comprehensive view of my work, I invite you to peruse my GitHub portfolio:
+GitHub: github.com/lexynotfound
+Respectfully,
+[Kurnia Raihan Ardian] </item>
+        <item>Siaaap</item>
+        <item>Gasss</item>
+        <item>jangan lupa cek tugasnya</item>
+        <item>udh sampai mana bangkit?</item>
+        <item>capek bgt</item>
+        <item>keren banget bangkit cuy</item>
+        <item>mau pergi kmn kmu?</item>
+        <item>tugas kuliah udah samapai mana?</item>
+        <item>ada yg nyariin tuh</item>
+        <item>jangan lupa submission dicoding</item>
+        <item>mutualan dulu gk sih</item>
+        <item>bener banget, mutaulan dulu lah</item>
+        <item>gass</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/raihan</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/hoka</item>
+        <item>@drawable/ramadhan</item>
+        <item>@drawable/afiq</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+        <item>@drawable/iconoir_people_tag</item>
+    </integer-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Share</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
